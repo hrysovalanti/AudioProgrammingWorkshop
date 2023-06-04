@@ -15,5 +15,8 @@ https://doc.sccode.org/Guides/OSC_communication.html
 ## Using MIDI
 https://doc.sccode.org/Guides/UsingMIDI.html
 
+https://www.inspiredacoustics.com/en/MIDI_note_numbers_and_center_frequencies
+
+
 
 
