@@ -1,6 +1,9 @@
 # References
 
-## Tutorials
+### Basics of Synthesis and Sound Design
+https://medium.com/@kusekiakorame/basics-of-synthesis-and-sound-design-a-beginners-guide-9c3d0314c6d5
+
+https://learningsynths.ableton.com/?pk_vid=9290b8b6b46f9a6216858874617bc310
 
 ### SuperCollider Tutorials and Compositions
 https://www.youtube.com/@elifieldsteel
@@ -24,11 +27,6 @@ https://doc.sccode.org/Guides/Tour_of_UGens.html
 https://doc.sccode.org/Tutorials/JITLib/basic_live_coding_techniques.html
 
 https://doc.sccode.org/Classes/SynthDef.html
-
-### Basics of Synthesis and Sound Design
-https://medium.com/@kusekiakorame/basics-of-synthesis-and-sound-design-a-beginners-guide-9c3d0314c6d5
-
-https://learningsynths.ableton.com/?pk_vid=9290b8b6b46f9a6216858874617bc310
 
 ### OSC in Supercollider
 https://ccrma.stanford.edu/groups/osc/index.html
