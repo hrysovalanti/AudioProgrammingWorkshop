@@ -28,4 +28,7 @@ https://www.inspiredacoustics.com/en/MIDI_note_numbers_and_center_frequencies
 ### Books
 https://mitpress.mit.edu/9780262232692/the-supercollider-book/
 
+https://mitpress.mit.edu/9780262044912/the-computer-music-tutorial/
+
+https://ccrma.stanford.edu/~ruviaro/texts/A_Gentle_Introduction_To_SuperCollider.pdf
 
