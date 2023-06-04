@@ -15,5 +15,5 @@ mod= 0
 
  osc(0.8,()=>hue,()=>hue*10).modulateRotate(o0,()=>mod/10).colorama(()=>hue).out()
  osc(0.8,()=>hue,3).diff(o2,()=>diff).out(o1)
- src(o0,3).mult(o1,3).kaleid(()=>oof).out(o2)
+ src(o0,3).mult(o1,3).kaleid(()=>diff).out(o2)
  render(o0)
