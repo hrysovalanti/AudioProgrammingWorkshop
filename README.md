@@ -18,7 +18,11 @@ https://doc.sccode.org/Guides/Tour_of_UGens.html
 https://medium.com/@kusekiakorame/basics-of-synthesis-and-sound-design-a-beginners-guide-9c3d0314c6d5
 
 ### OSC in Supercollider
+https://ccrma.stanford.edu/groups/osc/index.html
+
 https://doc.sccode.org/Guides/OSC_communication.html
+
+https://doc.sccode.org/Classes/OSCdef.html
 
 ### Using MIDI
 https://doc.sccode.org/Guides/UsingMIDI.html
