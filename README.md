@@ -5,6 +5,13 @@
 ### SuperCollider Tutorials and Compositions
 https://www.youtube.com/@elifieldsteel
 
+### Server Architecture
+https://doc.sccode.org/Guides/Server-Guide.html
+
+https://doc.sccode.org/Reference/Server-Architecture.html
+
+https://doc.sccode.org/Reference/AudioDeviceSelection.html
+
 ### Keyboard Shortcuts
 https://doc.sccode.org/Reference/KeyboardShortcuts.html
 
@@ -13,6 +20,10 @@ https://doc.sccode.org/Guides/Debugging-tips.html
 
 ### Tour of UGens
 https://doc.sccode.org/Guides/Tour_of_UGens.html
+
+https://doc.sccode.org/Tutorials/JITLib/basic_live_coding_techniques.html
+
+https://doc.sccode.org/Classes/SynthDef.html
 
 ### Basics of Synthesis and Sound Design
 https://medium.com/@kusekiakorame/basics-of-synthesis-and-sound-design-a-beginners-guide-9c3d0314c6d5
