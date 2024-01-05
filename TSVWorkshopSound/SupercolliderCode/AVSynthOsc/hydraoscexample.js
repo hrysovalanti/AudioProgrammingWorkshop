@@ -6,9 +6,9 @@
  _osc.on("*", (m) => { console.log(m.address, m.args)}) 
  
  lfo= 0
- _osc.on("/lfo", (m) => { foo=m.args[0]})
+ _osc.on("/lfo", (m) => { lfo=m.args[0]})
 hue=0
- _osc.on("/amp", (m) => { oof=m.args[0]})
+ _osc.on("/amp", (m) => { hue=m.args[0]})
 
 
  osc(()=>lfo,()=>hue*100,()=>hue*100).out()
